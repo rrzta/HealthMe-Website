@@ -1,0 +1,5 @@
+NGROK
+
+ngrok http 80
+ex:
+https://a0bf-103-233-100-228.ap.ngrok.io/HealthMe/page1.html
